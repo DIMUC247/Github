@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "пицца"
+version = "0.1.0"
+description = ""
+authors = ["DIMUC247 <dimuch.v09@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+flask = "^3.0.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
